@@ -1,3 +1,13 @@
+# 🧩 Programação Orientada a Objetos — Modelagem de Objetos Reais
+
+> Atividade prática desenvolvida para exercitar os conceitos iniciais de Programação Orientada a Objetos (POO), identificando atributos e métodos em objetos do cotidiano.
+
+## 📌 Sobre a Atividade
+
+A Programação Orientada a Objetos busca representar elementos do mundo real por meio de classes e objetos. Neste exercício, foram analisados dez objetos distintos, descrevendo suas principais características (atributos) e comportamentos (métodos).
+
+O objetivo é compreender como situações e elementos do dia a dia podem ser abstraídos para o contexto da programação.
+
 # 1. Pessoa
 
 | Características | Ações |
